@@ -16,7 +16,7 @@ int main(int argc,char * argv[])
 		return 0;
 	}
 	printf("Scan %s . . .","199.0.12.22");
-	sleep(123);
+	sleep(12);
 	putchar('\n');
 	printf("***************************\n");
 	printf("Getting password . . . \n");
@@ -32,7 +32,7 @@ int main(int argc,char * argv[])
 	srand((unsigned int)time(NULL));
 	char c = '\0';
 	int j = 0;
-	for(i = 0;i < 100;i++)
+	for(i = 0;i < 20;i++)
 	{
 		for(j = 0;j < 80;i++)
 		{
