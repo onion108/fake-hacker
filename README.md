@@ -1,8 +1,8 @@
 # fake-hacker
-This edition is the 1.0.0 ***BETA*** edition.
+This edition is the 1.0.0 ***BETA2*** edition.
 
 ## NEW FEATURES
-There has 2 styles(I will add new style in the later edition),you can switch it when you're making.
+I add the style3.
 
 ## INSTALL
 
